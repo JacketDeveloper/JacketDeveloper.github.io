@@ -1,3 +1,2 @@
-# JacketDeveloper.github.io
-papapapapapa
-eeeeh la verdad no se solo estoy aburrido
+# >Wlc
+Bienvenido ah mi pagina sencilla donde guardo mis logros
