@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+*, *:before, *:after 
+{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    font-family: 'Metal Mania', cursive;
+}
+
+body 
+{
+    font-size: 16px;
+    background-image: linear-gradient(to top, #22533e 50%, #212121 100% );
+}
+
+h1,h2,h3 
+{
+    color: #fff;
+    text-shadow: 0 5px #000;
+    text-align: center;
+}
+
+p
+{
+    color: #fff;
+    text-align: center;   
+    font-family: 'Arial', cursive;
+}
+h5
+{
+    color: #fff;
+    text-shadow: 0 5px #000;
+    text-align: center;  
+}
+.logo
+{
+    height: 10vw;
+    display: inline;
+    justify-content: center;
+    align-items: center;   
+}
+
+.logo a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container
+{
+    text-shadow: 0 8px #000;
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container li 
+{
+    display: inline-block;
+    font-size: 1.5em;
+    list-style-type: none;
+    padding: 1em;
+    text-transform: uppercase;
+}
+
+.container li span 
+{
+    display: block;
+    font-size: 4.5rem;
+}
+
+.footer
+{
+    margin-top: 15rem !important;
+    margin-bottom: 10.5em !important;
+}
